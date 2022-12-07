@@ -75,7 +75,7 @@ header nav ul li a:hover {
 
 /* hero styling start */
 .hero {
-    background-image: url("../../assets/Images/Liverpool_FC1.jpg");
+    background-image: url("../Images/Liverpool_FC1.jpg");
     height: 600px;
     background-size: cover;
     background-position: center;
@@ -185,25 +185,25 @@ header nav ul li a:hover {
 .SCADA {
     grid-column: 1/3;
     grid-row: span 2;
-    background-image: url("../../assets/Images/imgScada.png");
+    background-image: url("../Images/imgScada.png");
 }
 
 .Mechatronics {
-    background-image: url("../../assets/Images/seim2.png");
+    background-image: url("../Images/seim2.png");
     
 }
 
 .Water {
-    background-image: url("../../assets/Images/mitsi1.png");
+    background-image: url("../Images/mitsi1.png");
    
 }
 
 .Asset {
-    background-image: url("../../assets/Images/6sig.jpg");
+    background-image: url("../Images/6sig.jpg");
 }
 
 .project5 {
-    background-image: url("../../assets/Images/brans1.jpg");
+    background-image: url("../Images/brans1.jpg");
 }
 
 .project-label {
