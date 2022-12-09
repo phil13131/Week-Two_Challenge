@@ -15,7 +15,7 @@ For this challenge I wrote the HTML and CSS for a sample professional portfolio 
 - The page was styled for multiple screen sizes, including tablets and mobile phones.
 - I also included some on hover effects for the various links and the projects on the page.
  
-phil13131.github.io_Week-Two_Challenge_.png
+
 
 
 Link to deployed application:
