@@ -16,7 +16,7 @@ For this challenge I wrote the HTML and CSS for a sample professional portfolio 
 - I also included some on hover effects for the various links and the projects on the page.
  
 
-
+![Project Screenshot](/portfolioscreenshot.png?raw=true)
 
 Link to deployed application:
 https://phil13131.github.io/portfolio/
